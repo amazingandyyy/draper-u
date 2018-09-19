@@ -1,4 +1,4 @@
-# Draper University
+# Draper University Fall 2018
 
 ## Sep 18
 
@@ -44,18 +44,16 @@
 
 ### Blockchain 101
 
-#### Aaron Wu (aaron@awulaw.com)
+#### Speacker: Aaron Wu (aaron@awulaw.com)
 
 - What is blockchain 
   - append only shared db of tx btw multiple stakeholders
   - parties have a mechanism for a sgree addition to the db = consensus
   - txs are auditable while still maintaining privacy
-- 
 
 
-### startup pitch
+### Class: startup pitch
 
-#### points
 - not pitch just for funding, for potential investor, partners, hires, shwo them the biz stands
 - 10-20 sentences 
 - 5- 10 pages, 2 mins, (usually 2-5mins pitch)
@@ -65,36 +63,42 @@
   - presentation deck, all images, 10 sliders
 
 - slider
-  - 1. Comapny Name
+  1. Comapny Name
     - vision statement (eg. think different)
     - preferred -> mission statement / company tangline (eg. short term, how you achieve, we build smartphones for eveyday people)
-  - 2. Hook
-  - 3. Story: Hook 'em, Emotional Power
-  - 4. Problem: pain point, big enough problem, two sentences for each
-  - 5. Solution: two sentences for each, put it stupit, put it simple, what value people will get from what we do
-  - 6. Product: go through the application, three steps
-  - 7. Market: stats
+  2. Hook
+  3. Story: Hook 'em, Emotional Power
+  4. Problem: pain point, big enough problem, two sentences for each
+  5. Solution: two sentences for each, put it stupit, put it simple, what value people will get from what we do
+  6. Product: go through the application, three steps
+  7. Market: stats
     - total market, total addressable market, percentage of the market you will pentrate, market trends and analysis, show any market research if you have it
     - from all market, partion of the market, if we cover 15%, then we can achieve bla bla bla
-  - 8. Traction: show the need, for the feature you want to build
-  - 9. User Testimonials
-  - 10. Competition
-  - 11. Competitbe Advantage, dont put feature as advantage, put value as advantage
+  8. Traction: show the need, for the feature you want to build
+  9. User Testimonials
+  10. Competition
+  11. Competitbe Advantage, dont put feature as advantage, put value as advantage
    - 1st to the marketk, brand&design ...
-  - 12. Go-To-Market Strategy
+  12. Go-To-Market Strategy
     - cost of acquisition
-  - 13. Adoption Strategy
-  - 14. Revenue Model
+  13. Adoption Strategy
+  14. Revenue Model
     - B2B, B2C, B2G etc...
     - price point, pricing
     - how is the investor making thier money back: exit, acquisition, IPO
-  - 15. 5 yrs projection
+  15. 5 yrs projection
     - how long until you break even?
     - chart, graphs, etc.
     - they know is bullshits, but it shows them you are doing something
-  - 16. Team
+  16. Team
     - the most importantpage
     - spent the most time here
-  - 17. ASK
-  - 18. Financial
+  17. ASK
+  18. Financial
 
+### Speacker: Blockchain for social justice
+- 
+
+
+## Author 
+- [Andy Chen](amazingandyyy.com)
