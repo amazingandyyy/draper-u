@@ -32,13 +32,13 @@
       - culture dynamic, instituitional knowledge
       - mentors, coachings
   - takeaways:
-    - 1. dont'e let everybody say NO to you
-    - 2. be careful where you take money from
-    - 3. be thoughtful to think about BOARD
+    1. dont'e let everybody say NO to you
+    2. be careful where you take money from
+    3. be thoughtful to think about BOARD
 
-  - they try to be profrssional, conduction professionally, show up on time, be thoughtful and be respectful
-
-      - in the US: 80B, 800 VC, coperational investor, some VC is super helpful, 400M didn't sell any board seat, 6 investors, attonershop
+  - notes
+    - they try to be profrssional, conduction professionally, show up on time, be thoughtful and be respectful
+    - in the US: 80B, 800 VC, coperational investor, some VC is super helpful, 400M didn't sell any board seat, 6 investors, attonershop
 
 ## Sep 19
 
@@ -50,7 +50,6 @@
   - append only shared db of tx btw multiple stakeholders
   - parties have a mechanism for a sgree addition to the db = consensus
   - txs are auditable while still maintaining privacy
-
 
 ### Class: startup pitch
 
@@ -64,40 +63,80 @@
 
 - slider
   1. Comapny Name
-    - vision statement (eg. think different)
-    - preferred -> mission statement / company tangline (eg. short term, how you achieve, we build smartphones for eveyday people)
+      - vision statement (eg. think different)
+      - preferred -> mission statement / company tangline (eg. short term, how you achieve, we build smartphones for eveyday people)
   2. Hook
   3. Story: Hook 'em, Emotional Power
   4. Problem: pain point, big enough problem, two sentences for each
   5. Solution: two sentences for each, put it stupit, put it simple, what value people will get from what we do
   6. Product: go through the application, three steps
   7. Market: stats
-    - total market, total addressable market, percentage of the market you will pentrate, market trends and analysis, show any market research if you have it
-    - from all market, partion of the market, if we cover 15%, then we can achieve bla bla bla
+      - total market, total addressable market, percentage of the market you will pentrate, market trends and analysis, show any market research if you have it
+      - from all market, partion of the market, if we cover 15%, then we can achieve bla bla bla
   8. Traction: show the need, for the feature you want to build
   9. User Testimonials
   10. Competition
   11. Competitbe Advantage, dont put feature as advantage, put value as advantage
-   - 1st to the marketk, brand&design ...
+      - 1st to the marketk, brand&design ...
   12. Go-To-Market Strategy
-    - cost of acquisition
+      - cost of acquisition
   13. Adoption Strategy
   14. Revenue Model
-    - B2B, B2C, B2G etc...
-    - price point, pricing
-    - how is the investor making thier money back: exit, acquisition, IPO
+      - B2B, B2C, B2G etc...
+      - price point, pricing
+      - how is the investor making thier money back: exit, acquisition, IPO
   15. 5 yrs projection
-    - how long until you break even?
-    - chart, graphs, etc.
-    - they know is bullshits, but it shows them you are doing something
+      - how long until you break even?
+      - chart, graphs, etc.
+      - they know is bullshits, but it shows them you are doing something
   16. Team
-    - the most importantpage
-    - spent the most time here
+      - the most importantpage
+      - spent the most time here
   17. ASK
   18. Financial
 
 ### Speacker: Blockchain for social justice
-- 
+
+- Developing a Use Case
+  - a biz that has blockchain, not a blockchain that has a biz
+  - Asset Mapping
+    - What are the probem?
+    - Who are the key players
+    - Waht "assets", are we tokenizing
+    - What are the relationships btw the players
+- Token Economics
+  - what is "currency"
+    - type of currency
+      - trading
+      - bartering
+      - predious metals
+      - symbolic materials items(ie. covery shells)
+      - fiat
+      - crypto
+    - types of capital
+  - what type for blockchains
+    - public
+    - private, example applications include db management, auditing
+    - federated, operate under the leadership of the group
+  - types of tokens economics
+    - security tokens
+    - utility tokens, use the token to do thing in the blockchain
+    - dual tokens economy, MakerDAO(maker as security, DAO as utility token)
+    - payment tokens, stable token
+  - toekn economics
+    - game theory + consensus model = token economics
+      - game: how you engage perticipants, that rules do participants follow, how rewards are distributed for actions
+        - players + rules(what I need to) + consequences(what if it goes bad) + payoff(what if it goes good)
+      - consensus: ensures that the next block is good
+    - what behaviros are you incentivizing
+    - what outcomes are you hoping to achieve
+    - who are your validators?(manual, automated)
+
+
+  - game theory
+  - incentive model
+  - consensus algor.
+
 
 
 ## Author 
