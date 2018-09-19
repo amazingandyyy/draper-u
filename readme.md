@@ -65,7 +65,36 @@
   - presentation deck, all images, 10 sliders
 
 - slider
-  - Comapny Name
+  - 1. Comapny Name
     - vision statement (eg. think different)
     - preferred -> mission statement / company tangline (eg. short term, how you achieve, we build smartphones for eveyday people)
-  - 
+  - 2. Hook
+  - 3. Story: Hook 'em, Emotional Power
+  - 4. Problem: pain point, big enough problem, two sentences for each
+  - 5. Solution: two sentences for each, put it stupit, put it simple, what value people will get from what we do
+  - 6. Product: go through the application, three steps
+  - 7. Market: stats
+    - total market, total addressable market, percentage of the market you will pentrate, market trends and analysis, show any market research if you have it
+    - from all market, partion of the market, if we cover 15%, then we can achieve bla bla bla
+  - 8. Traction: show the need, for the feature you want to build
+  - 9. User Testimonials
+  - 10. Competition
+  - 11. Competitbe Advantage, dont put feature as advantage, put value as advantage
+   - 1st to the marketk, brand&design ...
+  - 12. Go-To-Market Strategy
+    - cost of acquisition
+  - 13. Adoption Strategy
+  - 14. Revenue Model
+    - B2B, B2C, B2G etc...
+    - price point, pricing
+    - how is the investor making thier money back: exit, acquisition, IPO
+  - 15. 5 yrs projection
+    - how long until you break even?
+    - chart, graphs, etc.
+    - they know is bullshits, but it shows them you are doing something
+  - 16. Team
+    - the most importantpage
+    - spent the most time here
+  - 17. ASK
+  - 18. Financial
+
