@@ -151,8 +151,20 @@
 
 - switch the camera to the projector
 - at least 10X(10x vs 20X)
-- 
+  - Aim low -> reach your goal -> and avoid disappointment :(
+  - you are not build your new habits, you are not doing new thing, your are not try new thing
+  - *turn something nobody want to peopel want*, no competitor
+  - the  way to get largest pie is to get it from others portion :(
+- Be a Verb
+- local minimum, global minimum
+
+### Lean startup for Founders
+
+#### David J Blank
+
+### 
 
 
-## Author 
+## Author
+
 - [Andy Chen](amazingandyyy.com)
