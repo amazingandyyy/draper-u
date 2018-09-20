@@ -145,6 +145,13 @@
   - [positiveblockchain](https://positiveblockchain.io/)
   - [b4sj](https://www.b4sj.com/)
 
+## Sep 20
+
+### Thinking 10X
+
+- switch the camera to the projector
+- at least 10X(10x vs 20X)
+- 
 
 
 ## Author 
