@@ -123,19 +123,27 @@
     - utility tokens, use the token to do thing in the blockchain
     - dual tokens economy, MakerDAO(maker as security, DAO as utility token)
     - payment tokens, stable token
-  - toekn economics
-    - game theory + consensus model = token economics
-      - game: how you engage perticipants, that rules do participants follow, how rewards are distributed for actions
-        - players + rules(what I need to) + consequences(what if it goes bad) + payoff(what if it goes good)
-      - consensus: ensures that the next block is good
+  - game theory + consensus model = token economics
+    - game: how you engage perticipants, that rules do participants follow, how rewards are distributed for actions
+      - players + rules(what I need to) + consequences(what if it goes bad) + payoff(what if it goes good)
+    - consensus: ensures that the next block is good
+  - think about:
     - what behaviros are you incentivizing
     - what outcomes are you hoping to achieve
     - who are your validators?(manual, automated)
-
-
+  - bus model for social impact
+    - value proposition
+    - business model -> [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas#/media/File:Business_Model_Canvas.png)
   - game theory
   - incentive model
   - consensus algor.
+- think about
+  - equity
+  - gas, acces
+  - cust. pain and gains
+- resources
+  - [positiveblockchain](https://positiveblockchain.io/)
+  - [b4sj](https://www.b4sj.com/)
 
 
 
