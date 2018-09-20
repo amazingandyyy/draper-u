@@ -160,9 +160,48 @@
 
 ### Lean startup for Founders
 
-#### David J Blank
+#### Speaker
 
-### 
+- David J Blank
+
+### Books
+
+- The lean startup
+- Business Model Generation
+
+### Lean startup
+
+- The Lean Startup provides a scientific approach to creating and managing startups and get a desired product to customers' hands faster.
+- Start with LEARN
+  - what do we need to learn
+  - Do they? have this Q? have this problem?
+  - should we?
+  - can we? regulations, policy, tech
+- How to MEASURE
+  - how do we MEASURE to LEARN
+  - qualitative, why
+  - quantitative, what
+- BUILD
+  - What do we BUILD to MEASRUE to LEARN
+  - interviews
+  - landing pages,fb compangin -> 15% to give emails(usually 15% of convertion rate)
+  - MVP
+- go back from BUILD back to MEASURE and LEARN, but always starts with learning, 
+- if you can do LMB faster than competitiors
+- business model
+  - a business model describes the relationale of how an org. creates, delivers, and *captures value*.
+- espresso exmaple of using biz model canvas
+- three points
+  - Viability, make moneh with it? sanity check
+  - Feasibility, can you build it? build, borrow, or buy?
+  - Desirablity, do ppl like it?customer development
+- simple straightforward -> [the ginger project](http://getginger.co/)
+- Feature tub <- google use it a lot
+- pretend to own, pilot PDA
+- Crowdfunding
+- buffer
+- uncertainty - time - fidelity
+
 
 
 ## Author
