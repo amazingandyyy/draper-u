@@ -249,7 +249,7 @@
     - Scheduling: [X.ai](https://x.ai/), [Calendly](https://calendly.com/), [Hubspot](https://www.hubspot.com/)
   - Kirsten: kirsten@joinstatus.com
 
-### Where value is created?
+### Where value is created
 
 - silicon valley tech trends
   - electronic tool, HP
