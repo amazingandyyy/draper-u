@@ -249,6 +249,26 @@
     - Scheduling: [X.ai](https://x.ai/), [Calendly](https://calendly.com/), [Hubspot](https://www.hubspot.com/)
   - Kirsten: kirsten@joinstatus.com
 
+### Where value is created?
+
+- silicon valley tech trends
+  - electronic tool, HP
+  - semiconductor, Intel, AMD
+  - enterprise, SAP, EMC2
+  - network, cisco
+  - consumer, Google, FB, Linkedin, Amazon
+  - smart enterprise, Palantir...etc
+    - smart enterprise use new cloud, data sources, and big data technology to integrate commercial data into coneptual frameworks that empower knowledge worker to solve non-linear problems.
+
+### Down is not defeat
+
+- most of people feel not happy when they pursue for happiness
+- Keys
+  - HEALTH: take care of your health of mental and physical, loneness
+  - GOOD RELATIONSHIP: be good with your friend
+  - FININCIAL SECURITY: be financial secure
+  - PURPOSE: your purpose
+
 ## Author
 
 - [Andy Chen](amazingandyyy.com)
