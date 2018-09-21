@@ -204,6 +204,51 @@
 - buffer
 - uncertainty - time - fidelity
 
+## Day5: Sep 21
+
+### Content Marketing
+
+- Components of COntent Marketing
+  - Blog/Vlogs
+    - attract organic traffic
+    - Keyword Research <- Tool MOZ: create your content strategy -> search keywork -> search difficulty score
+    - Tracking
+    - Make the most of your content
+  - Premium Content
+    - recipes, videos, how-to's
+    - Instagram
+      - posting consistently
+      - engage with others
+      - Longtail Hashtags (#food vs #veganfood, better)
+      - Use the max of 30 hashtags
+    - Instagram stories
+      - Live/Behind the scences
+      - How-To
+      - Polls
+      - Tagging
+  - Influencer Merketing / Partners
+    - expand audience
+    - social proofing
+    - brand awarness
+    - product feedback
+    - ways to track influencer marketing
+      - affiliate links
+      - coupon codes
+      - informal brand ambassador programs
+      - actions-based agreements
+  - Landig Page
+    - convert *traffic into prospects*
+  - Lead Nuturing
+    - move prospects through sales funnel
+  - Tools
+    - Marketing automation: [Hubspot](https://www.hubspot.com/)
+    - Video analytics: [Wistia](https://wistia.com/)
+    - Integrations: Zapier
+    - Quick design tool: [Piktochart](https://piktochart.com/), [Canva](https://www.canva.com/), [Visme](https://www.visme.co/)
+    - Sales and email: [Hubspot Sales](https://www.hubspot.com/products/sales), [MixMax](https://mixmax.com/)
+    - Scheduling: [X.ai](https://x.ai/), [Calendly](https://calendly.com/), [Hubspot](https://www.hubspot.com/)
+  - Kirsten: kirsten@joinstatus.com
+
 ## Author
 
 - [Andy Chen](amazingandyyy.com)
