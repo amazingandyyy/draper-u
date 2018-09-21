@@ -1,6 +1,8 @@
 # Draper University Fall 2018
 
-## Sep 18
+## Day 0: [Superhero Oath](http://thomassfoley.tumblr.com/post/55556269234/superhero-oath-of-draper-university)
+
+## DAY 1: Sep 18
 
 ### Knightscope
 
@@ -40,7 +42,7 @@
     - they try to be profrssional, conduction professionally, show up on time, be thoughtful and be respectful
     - in the US: 80B, 800 VC, coperational investor, some VC is super helpful, 400M didn't sell any board seat, 6 investors, attonershop
 
-## Sep 19
+## DAY 2: Sep 19
 
 ### Blockchain 101
 
@@ -145,7 +147,7 @@
   - [positiveblockchain](https://positiveblockchain.io/)
   - [b4sj](https://www.b4sj.com/)
 
-## Sep 20
+## DAY 3: Sep 20
 
 ### Thinking 10X
 
@@ -201,8 +203,6 @@
 - Crowdfunding
 - buffer
 - uncertainty - time - fidelity
-
-
 
 ## Author
 
