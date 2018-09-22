@@ -204,7 +204,7 @@
 - buffer
 - uncertainty - time - fidelity
 
-## Day5: Sep 21
+## Day 4: Sep 21
 
 ### Content Marketing
 
@@ -268,6 +268,21 @@
   - GOOD RELATIONSHIP: be good with your friend
   - FININCIAL SECURITY: be financial secure
   - PURPOSE: your purpose
+
+### Product Playbook
+
+- how to harness emerging technology, to create a truly disruptive startup.
+- Chad Lonberger, CEO Presence
+- stats
+  - 42% of startup failed becasue *no market need*
+  - 255 weeks to know no market need
+  - The best product teams in the world do this.
+- to get
+  - differentiated
+  - difensible
+  - disruptive
+  - love by users
+
 
 ## Author
 
