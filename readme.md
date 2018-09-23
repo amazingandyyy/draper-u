@@ -66,7 +66,7 @@
 - slider
   1. Comapny Name
       - vision statement (eg. think different)
-      - preferred -> mission statement / company tangline (eg. short term, how you achieve, we build smartphones for eveyday people)
+      - preferred -> mission statement / company tagline (eg. short term, how you achieve, we build smartphones for eveyday people)
   2. Hook
   3. Story: Hook 'em, Emotional Power
   4. Problem: pain point, big enough problem, two sentences for each
