@@ -48,7 +48,7 @@
 
 #### Speacker: Aaron Wu (aaron@awulaw.com)
 
-- What is blockchain 
+- What is blockchain
   - append only shared db of tx btw multiple stakeholders
   - parties have a mechanism for a sgree addition to the db = consensus
   - txs are auditable while still maintaining privacy
@@ -56,7 +56,7 @@
 ### Class: startup pitch
 
 - not pitch just for funding, for potential investor, partners, hires, shwo them the biz stands
-- 10-20 sentences 
+- 10-20 sentences
 - 5- 10 pages, 2 mins, (usually 2-5mins pitch)
 - loud enough, don't rely on tech suuport
 - decks
@@ -282,6 +282,19 @@
   - difensible
   - disruptive
   - love by users
+
+## Sep 25: Being a VC
+
+- Deal sourcing
+  - team
+  - tech/product detail
+  - market(TAM)
+  - Sale pipeline/Customers(current and projeted)
+    - ARR, CAC, LTV
+  - compeition
+- Due Diligence
+- Porfolio Support
+- Road Mapping
 
 
 ## Author
