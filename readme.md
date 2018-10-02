@@ -296,6 +296,32 @@
 - Porfolio Support
 - Road Mapping
 
+## Oct. 2
+
+### how to sell things
+
+- how sales has changed
+  - we all like buying, but we hate to be told to buy
+  - a customers need a *problem* to buy
+  - *behind the cloud*, SaaS, saleforces
+  - traditional funnel, from wide to narrow \/
+  - what we can solve the problem, it's nothing about benefits or features
+  - Leads > commit > money
+- Churn
+- To Sell
+  - TONE
+    - how to speak
+    - the tone
+  - ASK *Open/Close Question*
+    - how is your weekend, good
+    - what was good about it
+    - How to win friends and influence people
+    - Influence by [Robert Cialdini](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X)
+  - LISTEN
+  - KEEP NOTES
+    - show empathy
+  - E
+  - Relationship
 
 ## Author
 
