@@ -323,6 +323,28 @@
   - E
   - Relationship
 
+### Corporation in the US
+
+- What do founders need to know about immigration
+  - visa
+  - green card = permanent residence
+  - adjustment of status(f1, h1 t green card) v. consular processing(apply green card in your own country)
+  - duration of visa, status
+  - citizenship
+  - immigrant v. nonimmigrant intent
+
+## Oct. 12
+
+### Founder's Dilemma: Cap Tables, Dilution & Term sheets
+
+- Investment
+  - Convertible Notes(4-6% interests)
+    - Cap(lower better for investor), Discount
+  - SAFE - simple agreement for future equity(not a loan)
+  - 4 yrs Vest(2% per month), 1 yr cliff
+  - ISO to employees, NSO
+  - pre-money valuation -> post money valuation
+
 ## Author
 
 - [Andy Chen](amazingandyyy.com)
