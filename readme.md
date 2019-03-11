@@ -344,6 +344,15 @@
   - 4 yrs Vest(2% per month), 1 yr cliff
   - ISO to employees, NSO
   - pre-money valuation -> post money valuation
+  - reverse split 5:1 convert
+  - founder lock up, emplayee lock up
+
+- Term Sheets
+  1. Valuation
+    - pre-money, post -money
+    - emplyee pool
+    - amount to raise
+
 
 ## Author
 
